@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://23haz23.github.io/GianniniElgun/images/istanbulgalata/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "istanbulgalata"
+                ]
+            },
+            "height": 3648,
+            "width": 2736,
+            "items": [
+                {
+                    "id": "https://23haz23.github.io/GianniniElgun/images/istanbulgalata/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://23haz23.github.io/GianniniElgun/images/istanbulgalata/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://23haz23.github.io/GianniniElgun/images/istanbulgalata/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 86,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 171,
+                                                "height": 228
+                                            },
+                                            {
+                                                "width": 342,
+                                                "height": 456
+                                            },
+                                            {
+                                                "width": 684,
+                                                "height": 912
+                                            },
+                                            {
+                                                "width": 1368,
+                                                "height": 1824
+                                            },
+                                            {
+                                                "width": 2736,
+                                                "height": 3648
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2736,
+                                        "@id": "https://23haz23.github.io/GianniniElgun/images/istanbulgalata",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3648,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://23haz23.github.io/GianniniElgun/images/istanbulgalata/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://23haz23.github.io/GianniniElgun/images/egypt/canvas/",
             "type": "Canvas",
             "label": {
