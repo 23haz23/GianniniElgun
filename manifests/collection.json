@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://23haz23.github.io/GianniniElgun/manifests/dogs_manifest.json",
     "label" : "dogs"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_ferry.json",
+    "label" : "ferry, istanbul"
   } ]
 }
