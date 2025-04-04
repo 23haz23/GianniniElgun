@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://23haz23.github.io/GianniniElgun/manifests/oldmole.json",
     "label" : "Mole 1975"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/dogs_manifest.json",
+    "label" : "dogs"
   } ]
 }
