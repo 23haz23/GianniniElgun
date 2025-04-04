@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 148,
+    "height" : 222
+  }, {
+    "width" : 296,
+    "height" : 444
+  }, {
+    "width" : 592,
+    "height" : 887
+  }, {
+    "width" : 1184,
+    "height" : 1774
+  }, {
+    "width" : 2367,
+    "height" : 3547
+  }, {
+    "width" : 4734,
+    "height" : 7093
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4734,
+  "@id" : "https://23haz23.github.io/GianniniElgun/images/monalisa",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7093
+}
