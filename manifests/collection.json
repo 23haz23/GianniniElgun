@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://23haz23.github.io/GianniniElgun/manifests/galata_manifest.json",
     "label" : "Istanbul Galata Tower"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/mole_manifest.json",
+    "label" : "Mole"
   } ]
 }
