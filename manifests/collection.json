@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://23haz23.github.io/GianniniElgun/manifests/mole_manifest.json",
     "label" : "Mole"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/monalisa_old.json",
+    "label" : "Mona Lisa"
   } ]
 }
