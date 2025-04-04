@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_greek.json",
     "label" : "greek, ruins"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/GreatSphinxofGiza_manifest.json",
+    "label" : "Great Sphinx, Giza, Egypt"
   } ]
 }
