@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_ferry.json",
     "label" : "ferry, istanbul"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json",
+    "label" : "Galata tower"
   } ]
 }
