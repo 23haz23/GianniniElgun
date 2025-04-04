@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 72,
+    "height" : 113
+  }, {
+    "width" : 144,
+    "height" : 225
+  }, {
+    "width" : 288,
+    "height" : 450
+  }, {
+    "width" : 576,
+    "height" : 899
+  }, {
+    "width" : 1152,
+    "height" : 1797
+  }, {
+    "width" : 2303,
+    "height" : 3594
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2303,
+  "@id" : "https://23haz23.github.io/GianniniElgun/images/dogs",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3594
+}
