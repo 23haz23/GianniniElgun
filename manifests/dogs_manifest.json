@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/manifests/dogs_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "dogs",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "different dog breeds ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://f176a691-ab3c-4b94-b918-2ab6f14d2d9f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0fe954d2-7ab4-49de-884a-6f3143699c2c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3594,
+      "width" : 2303,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://71f138c4-b0c1-496d-9c77-94c6b0076daf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/dogs/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/dogs",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3594,
+          "width" : 2303
+        },
+        "on" : "http://0fe954d2-7ab4-49de-884a-6f3143699c2c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
