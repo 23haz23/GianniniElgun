@@ -1,0 +1,13 @@
+{
+  "id" : "https://23haz23.github.io/GianniniElgun/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in 23haz23/GianniniElgun project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_greek.json",
+    "label" : "greek, ruins"
+  } ]
+}
