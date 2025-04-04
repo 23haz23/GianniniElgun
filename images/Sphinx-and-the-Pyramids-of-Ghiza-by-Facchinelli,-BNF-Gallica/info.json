@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 86,
+    "height" : 60
+  }, {
+    "width" : 171,
+    "height" : 119
+  }, {
+    "width" : 342,
+    "height" : 237
+  }, {
+    "width" : 683,
+    "height" : 474
+  }, {
+    "width" : 1366,
+    "height" : 948
+  }, {
+    "width" : 2732,
+    "height" : 1896
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2732,
+  "@id" : "https://23haz23.github.io/GianniniElgun/images/Sphinx-and-the-Pyramids-of-Ghiza-by-Facchinelli,-BNF-Gallica",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1896
+}
