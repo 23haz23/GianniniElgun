@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/manifests/GreatSphinxofGiza_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Great Sphinx, Giza, Egypt",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Great Sphinx of Giza\n",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1311c331-a4ab-425d-814c-cdb403439cd1",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e6af2126-486c-4487-a025-42170a42c607",
+      "@type" : "sc:Canvas",
+      "label" : "Great Sphinx of Giza",
+      "height" : 2298,
+      "width" : 3080,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://90425ab3-a62e-4225-8117-357f4f7685b0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/egypt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/egypt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2298,
+          "width" : 3080
+        },
+        "on" : "http://e6af2126-486c-4487-a025-42170a42c607"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
