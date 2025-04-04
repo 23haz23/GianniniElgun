@@ -1,0 +1,46 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_greek.json",
+  "@type" : "sc:Manifest",
+  "label" : "greek, ruins",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Greek architecture from ancient times",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1e51a221-7b57-47ee-b9ec-67558203d471",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://52c3ab36-46b1-4bfc-93aa-2b740c768a2c",
+      "@type" : "sc:Canvas",
+      "label" : "greek ruins first canvas",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c4d8ed5d-1fab-4707-a205-cb811a65146e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/greece/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/greece",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://52c3ab36-46b1-4bfc-93aa-2b740c768a2c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
