@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/manifests/oldmole.json",
+  "@type" : "sc:Manifest",
+  "label" : "Mole 1975",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Mole Antonelliana",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Giacomo Brogi",
+  "sequences" : [ {
+    "@id" : "http://c0eee857-67ca-4013-8ad6-abc536194fe7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://38627af9-4576-404f-a6e2-32494f179687",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 603,
+      "width" : 475,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://34710d14-6180-4fd6-993b-cdc58706ffd7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/Mole_1875/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/Mole_1875",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 603,
+          "width" : 475
+        },
+        "on" : "http://38627af9-4576-404f-a6e2-32494f179687"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
