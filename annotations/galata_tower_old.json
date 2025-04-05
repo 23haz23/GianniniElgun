@@ -1,0 +1,59 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/annotations/galata_tower_old.json",
+  "@type" : "sc:Manifest",
+  "label" : "Galata tower",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Albumen print of the Galata Tower by Pascal Sébah, between 1875 and 1886",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "By Cornell University Library - originally posted to Flickr as Galata Tower, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=7245233",
+  "sequences" : [ {
+    "@id" : "http://66cfaeab-5e31-4bae-841b-392b31c5aeb1",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1536,
+      "width" : 1153,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d8cfc505-3905-427b-9f86-425d6485fea9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/Galata_Tower/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/Galata_Tower",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1536,
+          "width" : 1153
+        },
+        "on" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/151855128/d819fe3e99e04aa42e5bcdec11a9ec39.json",
+        "label" : "Annotations for canvas Empty canvas"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/151855128/7e7643a93983ddf800ae7857f3fc0a80/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
