@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://23haz23.github.io/GianniniElgun/annotations/collection_link.json" ],
+  "otherContent" : [ "https://23haz23.github.io/GianniniElgun/annotations/collection_link.json", "https://23haz23.github.io/GianniniElgun/annotations/galata_tower_old.json" ],
   "@id" : "https://23haz23.github.io/GianniniElgun/annotations/collection.json",
   "label" : "All annotations loaded in 23haz23/GianniniElgun project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
