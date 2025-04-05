@@ -1,0 +1,59 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/annotations/Istanbul_Galata_Tower.json",
+  "@type" : "sc:Manifest",
+  "label" : "Istanbul Galata Tower",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Istanbul Galata Tower",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://964d85e9-f264-4b2a-923e-e96db6df7723",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4aa60de7-bba8-4b22-a629-191ef71a486a",
+      "@type" : "sc:Canvas",
+      "label" : "Galata Tower",
+      "height" : 3648,
+      "width" : 2736,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://14dfdd0a-5fa5-46d8-96cc-628cf610c5c2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/istanbulgalata/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/istanbulgalata",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3648,
+          "width" : 2736
+        },
+        "on" : "http://4aa60de7-bba8-4b22-a629-191ef71a486a"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/151855128/bd2167ae3c3e7217826d031bd2c7ae9d.json",
+        "label" : "Annotations for canvas Galata Tower"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/151855128/dab889850b09e678eb478743bdac1fcf/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
