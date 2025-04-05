@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://23haz23.github.io/GianniniElgun/annotations/collection_link.json", "https://23haz23.github.io/GianniniElgun/annotations/galata_tower_old.json", "https://23haz23.github.io/GianniniElgun/annotations/istanbul_ferry.json", "https://23haz23.github.io/GianniniElgun/annotations/dogs_breed.json", "https://23haz23.github.io/GianniniElgun/annotations/mole_1875.json", "https://23haz23.github.io/GianniniElgun/annotations/Mona_Lisa.json", "https://23haz23.github.io/GianniniElgun/annotations/Mole_new.json", "https://23haz23.github.io/GianniniElgun/annotations/Istanbul_Galata_Tower.json", "https://23haz23.github.io/GianniniElgun/annotations/IstanbulGalataTower.json" ],
+  "otherContent" : [ "https://23haz23.github.io/GianniniElgun/annotations/collection_link.json", "https://23haz23.github.io/GianniniElgun/annotations/galata_tower_old.json", "https://23haz23.github.io/GianniniElgun/annotations/istanbul_ferry.json", "https://23haz23.github.io/GianniniElgun/annotations/dogs_breed.json", "https://23haz23.github.io/GianniniElgun/annotations/mole_1875.json", "https://23haz23.github.io/GianniniElgun/annotations/Mona_Lisa.json", "https://23haz23.github.io/GianniniElgun/annotations/Mole_new.json", "https://23haz23.github.io/GianniniElgun/annotations/Istanbul_Galata_Tower.json" ],
   "@id" : "https://23haz23.github.io/GianniniElgun/annotations/collection.json",
   "label" : "All annotations loaded in 23haz23/GianniniElgun project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
