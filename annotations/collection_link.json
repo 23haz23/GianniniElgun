@@ -1,0 +1,96 @@
+{
+  "@type" : "sc:Collection",
+  "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151855128",
+  "members" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_greek.json",
+    "label" : "greek, ruins"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/GreatSphinxofGiza_manifest.json",
+    "label" : "Great Sphinx, Giza, Egypt"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/GreatSphinxofGizabyFacchinelli.json",
+    "label" : "Sphinx"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/galata_manifest.json",
+    "label" : "Istanbul Galata Tower"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/mole_manifest.json",
+    "label" : "Mole"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/monalisa_old.json",
+    "label" : "Mona Lisa"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/oldmole.json",
+    "label" : "Mole 1975"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/dogs_manifest.json",
+    "label" : "dogs"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_ferry.json",
+    "label" : "ferry, istanbul"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json",
+    "label" : "Galata tower"
+  } ],
+  "manifests" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_greek.json",
+    "label" : "greek, ruins"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/GreatSphinxofGiza_manifest.json",
+    "label" : "Great Sphinx, Giza, Egypt"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/GreatSphinxofGizabyFacchinelli.json",
+    "label" : "Sphinx"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/galata_manifest.json",
+    "label" : "Istanbul Galata Tower"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/mole_manifest.json",
+    "label" : "Mole"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/monalisa_old.json",
+    "label" : "Mona Lisa"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/oldmole.json",
+    "label" : "Mole 1975"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/dogs_manifest.json",
+    "label" : "dogs"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/manifest_ferry.json",
+    "label" : "ferry, istanbul"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json",
+    "label" : "Galata tower"
+  } ],
+  "@id" : "https://23haz23.github.io/GianniniElgun/annotations/collection_link.json",
+  "label" : "TMDRA_Giannini_Elgun",
+  "@context" : [ {
+    "dcterms" : "http://purl.org/dc/terms/",
+    "dcterms:creator" : {
+      "@type" : "@id",
+      "@id" : "dcterms:creator"
+    }
+  }, "http://iiif.io/api/presentation/2/context.json" ],
+  "dc:identifier" : "6c7485bfefdb89c94b1b3cde20b8c7b4"
+}
