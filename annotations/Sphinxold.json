@@ -1,0 +1,59 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/annotations/Sphinxold.json",
+  "@type" : "sc:Manifest",
+  "label" : "Sphinx",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Sphinx and the Pyramids of Ghiza by Facchinelli",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Beniamino Facchinelli",
+  "sequences" : [ {
+    "@id" : "http://24a6d4d1-7f2a-4309-a66a-bcf79a376dd5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://4619db02-b38e-4d83-b961-1bdd97632c49",
+      "@type" : "sc:Canvas",
+      "label" : "Great Sphinx of Giza by Facchinelli, Beniamino",
+      "height" : 1896,
+      "width" : 2732,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b71f7ad5-7918-4e90-bb63-79fa09a27530",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/Sphinx-and-the-Pyramids-of-Ghiza-by-Facchinelli,-BNF-Gallica/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/Sphinx-and-the-Pyramids-of-Ghiza-by-Facchinelli,-BNF-Gallica",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1896,
+          "width" : 2732
+        },
+        "on" : "http://4619db02-b38e-4d83-b961-1bdd97632c49"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/151855128/4b53693cdb418178b9468016e8393f7d.json",
+        "label" : "Annotations for canvas Great Sphinx of Giza by Facchinelli, Beniamino"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/151855128/0f91b0d01135ef0b51ff459a6b24b687/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
