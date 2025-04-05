@@ -1,0 +1,59 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://23haz23.github.io/GianniniElgun/annotations/Great_Sphinx_GizaEgypt.json",
+  "@type" : "sc:Manifest",
+  "label" : "Great Sphinx, Giza, Egypt",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Great Sphinx of Giza\n",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1311c331-a4ab-425d-814c-cdb403439cd1",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e6af2126-486c-4487-a025-42170a42c607",
+      "@type" : "sc:Canvas",
+      "label" : "Great Sphinx of Giza",
+      "height" : 2298,
+      "width" : 3080,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://90425ab3-a62e-4225-8117-357f4f7685b0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://23haz23.github.io/GianniniElgun/images/egypt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://23haz23.github.io/GianniniElgun/images/egypt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2298,
+          "width" : 3080
+        },
+        "on" : "http://e6af2126-486c-4487-a025-42170a42c607"
+      } ],
+      "related" : "",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/151855128/1b81d8ba620d8e68388227c9fd63e72b.json",
+        "label" : "Annotations for canvas Great Sphinx of Giza"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/151855128/0334aa4da7514a9af0fe622468a535ad/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
