@@ -1,0 +1,191 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Albumen print of the Galata Tower by&nbsp;<a href=\"https://www.wikidata.org/wiki/Q704918\" target=\"_blank\" rel=\"noopener\">Pascal S&eacute;bah&nbsp;<span style=\"color: #202122; font-family: sans-serif; font-size: 16px;\">Ottoman (Syrian-Armenian) photographer (1823-1886), between 1875 and 1886",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Albumen print of the Galata Tower by&nbsp;<a href=\"https://www.wikidata.org/wiki/Q704918\" target=\"_blank\" rel=\"noopener\">Pascal S&eacute;bah&nbsp;</a><span style=\"color: #202122; font-family: sans-serif; font-size: 16px;\">Ottoman (Syrian-Armenian) photographer (1823-1886)</span>, between 1875 and 1886</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pascal Sébah",
+      "@type" : "oa:Tag",
+      "chars" : "Pascal Sébah"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1875",
+      "@type" : "oa:Tag",
+      "chars" : "1875"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1886",
+      "@type" : "oa:Tag",
+      "chars" : "1886"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Galata Tower",
+      "@type" : "oa:Tag",
+      "chars" : "Galata Tower"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Albumen",
+      "@type" : "oa:Tag",
+      "chars" : "Albumen"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151855128",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-04-05T08:38:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743842308194",
+    "dcterms:modified" : "2025-04-05T08:38:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=374,167,338,1014"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M373.87959,167.27347h169.22857v0h169.22857v507.16093v507.16093h-169.22857h-169.22857v-507.16093z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ef49eddb-e0f0-430b-9ce7-0ac9362d4f31\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.77231\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "the sign of&nbsp;<a title=\"Pascal S&eacute;bah\" href=\"https://www.wikidata.org/wiki/Q704918\">Pascal S&eacute;bah",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>the sign of&nbsp;<a title=\"Pascal S&eacute;bah\" href=\"https://www.wikidata.org/wiki/Q704918\">Pascal S&eacute;bah</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151855128",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-05T08:39:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743842361967",
+    "dcterms:modified" : "2025-04-05T08:40:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=946,1453,149,77"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M946.28182,1452.83636h74.30909v0h74.30909v38.30909v38.30909h-74.30909h-74.30909v-38.30909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_9fd2962b-1323-4b0b-ab32-5584727d9ce7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "old ottoman building\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>old ottoman building</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151855128",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-05T08:38:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743842338781",
+    "dcterms:modified" : "2025-04-05T08:38:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=744,66,408,1196"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M744.00567,65.91837h204.1746v0h204.1746v597.75283v597.75283h-204.1746h-204.1746v-597.75283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1072ff7d-2c47-439f-bc23-0584fb6b63e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q43557297\" target=\"_blank\" rel=\"noopener\">albumin print",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q43557297\" target=\"_blank\" rel=\"noopener\">albumin print</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151855128",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-05T08:42:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743842520394",
+    "dcterms:modified" : "2025-04-05T08:42:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=261,38,137,106"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M261.03061,38.05442h68.33787v0h68.33787v53.2449v53.2449h-68.33787h-68.33787v-53.2449z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_44febc48-4d34-495a-8d87-5287127a68ce\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.93197\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "the name of the albumin print",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>the name of the albumin print</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151855128",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-04-05T08:39:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1743842356112",
+    "dcterms:modified" : "2025-04-05T08:42:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://23haz23.github.io/GianniniElgun/manifests/old_galata_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=67,1432,232,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M66.57273,1431.89091h116.2v0h116.2v43.54545v43.54545h-116.2h-116.2v-43.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4ba5ad4e-4666-4752-9d03-3d1f360a9711\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.93197\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://140da8b4-00a5-494e-ab7a-a309ccf69055"
+    } ]
+  } ],
+  "@id" : "https://23haz23.github.io/GianniniElgun/annotations/old_galata_tower.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
